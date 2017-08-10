@@ -39,7 +39,7 @@ npm install drift.js --save
 
 ---
 
-##API
+## API
 
 - `new Drift()`
 - `push(node)`
